@@ -259,7 +259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlotNeighbors: {fileID: 1026276938}
-  AutoMove: 1
+  AutoMove: 0
 --- !u!1 &1026276937
 GameObject:
   m_ObjectHideFlags: 0
