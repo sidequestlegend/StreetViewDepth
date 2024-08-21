@@ -1,6 +1,6 @@
 #### Getting Started
 Open the scene and hit play, you can then use `WASD` controls to move around. In the `SampleScene` you can enable the `Auto Move` property on the `Cockpit` object. You can also change the panorama ID on the `Panoid` proeprty on the PhotoSphere object.
-
+-
 
 
 #### Using The Prefab
